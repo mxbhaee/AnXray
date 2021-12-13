@@ -145,4 +145,5 @@ jobs:
             app/build/outputs/apk/oss/debug/AX-armeabi-v7a-debug.apk
             app/build/outputs/apk/oss/debug/AX-x86-debug.apk
             app/build/outputs/apk/oss/debug/AX-x86_64-debug.apk
+            
 
